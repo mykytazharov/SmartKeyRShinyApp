@@ -6,15 +6,17 @@ Final Capstone project of the Data Science: Statistics and Machine Learning Spec
 
 The main goal of the project is to build a machine learning algorithm in R which will be able to predict the next word the user intends to type and build a user-friendly interface around it (web-application). The project is motivated by SwiftKey virtual keyboard app.
 The are three .txt files in English language provided for the task:
-• collection of tweets from Twitter (167 mb) 
-• collection of blog entries (210 mb)
-• collection of news items (205 mb)
+
+* collection of tweets from Twitter (167 mb) 
+* collection of blog entries (210 mb)
+* collection of news items (205 mb)
 
 The following steps were performed:
-• Data reading
-• Exploratory data analysis (EDA)
-• Data preprocessing and cleaning
-• Introducing the idea of a predictive algorithm based on n-Grams
+
+* Data reading
+* Exploratory data analysis (EDA)
+* Data preprocessing and cleaning
+* Introducing the idea of a predictive algorithm based on n-Grams
 
 The milestone report with the above steps can be found in the EDA_nlp.pdf file via https://github.com/mykytazharov/SmartKeyRShinyApp/blob/master/EDA_nlp.pdf 
 
