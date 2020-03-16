@@ -1,7 +1,9 @@
 # SmartKeyShinyApp
+
 Final Capstone project of the Data Science: Statistics and Machine Learning Specialization by Johns Hopkins University on Coursera.
 
-##Goal of the project.
+## Goal of the project.
+
 The main goal of the project is to build a machine learning algorithm in R which will be able to predict the next word the user intends to type and build a user-friendly interface around it (web-application). The project is motivated by SwiftKey virtual keyboard app.
 The are three .txt files in English language provided for the task:
 • collection of tweets from Twitter (167 mb) 
