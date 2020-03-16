@@ -18,8 +18,9 @@ The following steps were performed:
 * Data preprocessing and cleaning
 * Introducing the idea of a predictive algorithm based on n-Grams
 
-The milestone report with the above steps can be found in the EDA_nlp.pdf file via https://github.com/mykytazharov/SmartKeyRShinyApp/blob/master/EDA_nlp.pdf 
+The milestone report with the above steps can be found in the EDA_nlp.pdf [file](https://github.com/mykytazharov/SmartKeyRShinyApp/blob/master/EDA_nlp.pdf ) 
 
 The prediction algorithm used in the application was based on the n-gram model (4-gram in our case), using the stupid backoff algorithm.
 
-Link to the application - https://mykytazharov.shinyapps.io/SmartKeyBoardApp/
+You can find the application [here](https://mykytazharov.shinyapps.io/SmartKeyBoardApp/).
+
